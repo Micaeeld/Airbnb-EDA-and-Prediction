@@ -1,6 +1,6 @@
 # Exploratory Data Analysis - Airbnb Cleaned Europe Dataset
 
-Este notebook Python apresenta uma análise exploratória dos Airbnb Cleaned em 9 cidades famosas na Europa.
+Este notebook Python apresenta uma análise exploratória e uma previsão de preços dos Airbnb Cleaned em 9 cidades famosas na Europa.
 
 ## Conjunto de dados
 
@@ -10,8 +10,8 @@ O conjunto de dados usado nesta análise foi retirado do Kaggle, uma plataforma 
 
 Para executar este notebook, você precisará de:
 
--Python 3.x
-- Pacotes Python: pandas, numpy, matplotlib e seaborn
+- Python 3.x
+- Pacotes Python: pandas, numpy, matplotlib, seaborn e sklearn
 
 ## Como usar
 
