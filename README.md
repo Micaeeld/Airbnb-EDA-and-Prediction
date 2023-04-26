@@ -1,24 +1,24 @@
 # Exploratory Data Analysis - Airbnb Cleaned Europe Dataset
 
-Este notebook Python apresenta uma análise exploratória e uma previsão de preços dos Airbnb Cleaned em 9 cidades famosas na Europa.
+This Python notebook features an exploratory analysis and price prediction of Airbnb Cleaned in 9 famous cities in Europe.
 
-## Conjunto de dados
+## Data set
 
-O conjunto de dados usado nesta análise foi retirado do Kaggle, uma plataforma online de ciência de dados que oferece conjuntos de dados públicos e privados, bem como ferramentas para análise e modelagem de dados. O conjunto de dados específico usado neste projeto pode ser encontrado em https://www.kaggle.com/datasets/dipeshkhemani/airbnb-cleaned-europe-dataset.
+The dataset used in this analysis was taken from Kaggle, an online data science platform that offers public and private datasets, as well as tools for data analysis and modeling. The specific dataset used in this project can be found at https://www.kaggle.com/datasets/dipeshkhemani/airbnb-cleaned-europe-dataset.
 
-## Pré-requisitos
+## Prerequisites
 
-Para executar este notebook, você precisará de:
+To run this notebook you will need:
 
-- Python 3.x
-- Pacotes Python: pandas, numpy, matplotlib, seaborn e sklearn
+-Python 3.x
+- Python packages: pandas, numpy, matplotlib, seaborn and sklearn
 
-## Como usar
+## How to use
 
-1. Clone este repositório em seu computador.
-2. Abra o notebook `Airbnb Cleaned Europe.ipynb` em um ambiente de desenvolvimento Python, como Jupyter Notebook ou Google Collaboratory.
-3. Execute as células do notebook na ordem, seguindo as análises e gráficos gerados.
+1. Clone this repository on your computer.
+2. Open the `Airbnb Cleaned Europe.ipynb` notebook in a Python development environment such as Jupyter Notebook or Google Collaboratory.
+3. Run the notebook cells in order, following the generated analysis and graphs.
 
-## Contribuindo
+## Contributing
 
-Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, abra um problema no repositório ou envie uma solicitação de pull.
+Contributions are welcome! If you find any bugs or have any suggestions for improvement, please open an issue in the repository or submit a pull request.
