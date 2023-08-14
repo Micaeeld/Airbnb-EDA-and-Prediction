@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Exploratory Data Analysis - Airbnb Cleaned Europe Dataset
 
 This Python notebook features an exploratory analysis and price prediction of Airbnb Cleaned in 9 famous cities in Europe.
